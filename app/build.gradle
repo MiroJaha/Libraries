@@ -34,15 +34,19 @@ android {
 dependencies {
 
     //Styleable Toast
+    //https://github.com/Muddz/StyleableToast
     implementation 'io.github.muddz:styleabletoast:2.4.0'
 
     //Slider
+    //https://github.com/r0adkll/Slidr
     implementation 'com.r0adkll:slidableactivity:2.1.0'
 
     //Alert
+    //https://github.com/Tapadoo/Alerter
     implementation 'com.tapadoo.android:alerter:2.0.4'
 
     //Android Color Picker
+    //https://github.com/yukuku/ambilwarna
     implementation 'com.github.yukuku:ambilwarna:2.0.1'
 
     implementation 'androidx.core:core-ktx:1.6.0'
